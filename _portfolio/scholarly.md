@@ -154,4 +154,7 @@ For the scholarly:
 
 ---
 
+You can check out **Scholarly** at [scholarly.cc](http://scholarly.cc).
+GitHub: https://github.com/devonbahary/scholarly
+
 **Thanks for reading!**

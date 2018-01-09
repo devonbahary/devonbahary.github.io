@@ -104,6 +104,8 @@ If you're visiting as a guest, you won't share a common database of tasks by eve
 
 Tasks are **yours alone**--they just won't save for next time.
 
+---
+
 > I thought there was real value on offer to retain tasks over multiple sessions, so I wanted to encourage user sign-up.
 
 {:.center}
@@ -177,5 +179,8 @@ I'm proud of how this one turned out, and yet again satisfied that I made someth
 After all, I've used **Pomodoro** to write this case study.
 
 ---
+
+You can [check out **Pomodoro**](https://kind-lovelace-b7595b.netlify.com/) on **Netlify**.
+GitHub: https://github.com/devonbahary/pomodoro
 
 **Thanks for reading!**
