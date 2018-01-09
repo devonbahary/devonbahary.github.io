@@ -19,4 +19,4 @@ I met up with my friends one weekend, we suited up, and I spent an afternoon run
 
 I went on to become MVP of the team that year and my name was in the discussion for league MVP. It was a huge transformation for me and a pivotal growing point in my life. I think about Lacrosse every time I struggle with something.
 
-So be comfortable with struggle. Be comfortable with adversity. Never be the one to tell yourself what you're incapable of. We all have innate talents and weaknesses, but if you care enough to struggle with something, you already have what you'll need to do it. 
+So be comfortable with struggle. Be comfortable with adversity. Never be the one to tell yourself what you're incapable of. We all have innate talents and weaknesses, but if you care enough to struggle with something, you already have what you'll need to do it.
