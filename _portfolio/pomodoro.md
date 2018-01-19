@@ -181,6 +181,7 @@ After all, I've used **Pomodoro** to write this case study.
 ---
 
 You can [check out **Pomodoro**](https://kind-lovelace-b7595b.netlify.com/) on **Netlify**.
-GitHub: https://github.com/devonbahary/pomodoro
+
+**GitHub**: https://github.com/devonbahary/pomodoro
 
 **Thanks for reading!**
