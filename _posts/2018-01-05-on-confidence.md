@@ -1,48 +1,61 @@
 ---
 layout: post
-title: On Confidence
+title: Improving Through Adversity
 ---
 
-Fellow web developers (and aspiring-for-anything readers), I want to talk about a couple ideas I keep in mind that get me through the ups and down of my journey into web development. With any luck, you can add these ideas into circulation while you go through adversity in whatever form it comes to you, too.
+> Not to take anything away from Stephen Curry, but I don't think he'd describe Basketball as **difficult**.
 
-But first, please bare with me through a sports analogy.
+I'm sure what he's trying to achieve--consistently playing the game at the level that he does--is difficult.
 
-Not to take anything away from Stephen Curry, but I don't think he'd describe Basketball as difficult.
+I mean, there's a league of NBA players (handpicked, exceptional athletes and talents) that **would like** to do what Steph can in a pinch.
 
-I'm sure what he's trying to achieve--consistently playing the game at the level that he does--is difficult. It's not as though there isn't a league of NBA players, handpicked exceptional athletes, who have extraordinary talent and would like to do what Steph can in a pinch.
+If you **asked** Steph how hard it is to make a three-pointer from deep, or dribble through the other team's defense, I'm sure he might **tell** you one thing or another.
 
-But I'm sure if you asked him how hard it is to make a three-pointer from deep or dribble through the other team's defense, he might tell you one thing or another, but I'm willing to bet that in all honesty it comes as second nature to him. And he's put in enough work to have earned that feat.
+Whatever he'd say, I think **deep down**, I'm sure he feels that all the training he's put into his skillset has led him to **instinctively** make the right decisions and execute with finesse.
 
-I bet after an incredible play, if you were to ask, "What was going through your head, Steph?" he might say something like, "I was put into a situation and I kind of just knew what I was going to do."
+But imagine that Steph decided tomorrow that he wanted to commit himself to **synchronized swimming**.
 
-But imagine Steph deciding tomorrow that he wants to commit himself to synchronized swimming.
+All the three pointers he's ever made **can't help him in the pool**.
 
-All the three pointers he's ever made can't help him in the pool.
+**It's hard to do something you don't know how to do**.
 
-It's hard to do something you don't know how to do.
+Yet **learning new things**--and perhaps more importantly, **learning how to learn** new things--is **how we grow**.
 
-It's the only way you build yourself, though.
+> I think there's a difference between people who are **born of natural gifts** and people who had to **struggle** to get them.
 
-What can be said of a person's character who was born of unusual talent, who passed every trial placed in front of him or her with ease, who rose to the top and never faced adversity?
+**Struggling through adversity** to gain a skillset naturally and **subtly** develops **another**: the skillset to **take on new skillsets**.
 
-Quite a specimen. And you wouldn't be wrong to admire his or her traits. But I think people who struggle through the achievement of their goals are constituted of something a little different.
+Every obstacle you run into is an opportunity to **give up**. And each time you don't, you **train yourself** to muster energy to **overcome the trial**.
 
-I bet they're used to adversity. I bet they've faced obstacles, and they've actually been stopped (temporarily). I bet they had to reinvent themselves. I bet they had to lay down parts of what they thought they knew to rebuild anew on top of new ideas. I bet they had to let go of their reliance on a particular skillset to allow room for new skills.
+Sometimes obstacles require you to **reinvent yourself**.
 
-These kinds of people may not be the best in their respective field, but I think when they are tested, they exhibit a resilience and a conviction that allows them to stand shoulder to shoulder with people more qualified than them.
+Sometimes they ask you to **let go** of what you're **comfortable** with in order to **pick up** something you're **not**.
 
-[Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) calls these people **[antifragile](https://en.wikipedia.org/wiki/Antifragility)**, a concept he wrote a book about, __[Antifragile: Things That Gain From Disorder](https://en.wikipedia.org/wiki/Antifragile)__.
+The kind of people who **struggle more than their peers** may not be the **best** in their respective field.
 
-Something that is fragile encounters stress and experiences weakening or failure as a result. [Nassim](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) coined the term **antifragile** to describe systems (or people) that exhibit the opposite: i.e., things that actually grow stronger as a result of having been stressed.
+When they're **tested** though, I think they exhibit a **resilience** and a persistence that allows them to stand shoulder to shoulder with people **more qualified** than them.
 
-Whenever I encounter frustration during my web development endeavors, I keep the concept of **antifragility** in mind. In the beginning, I relied on a proud sense of programming ability to charge me through the first challenges in my [Bloc](https://www.bloc.io) web development curriculum.
+Under pressure, it's important to **practice a dedication to the obstacle** until you overcome it. It then becomes a part of you, and you're a little bit **stronger**.
 
-But after a time, I kept being introduced to new concepts. I had to learn new skills. What I had known how to do before was no longer what was going to get me over newer obstacles. And with each of these, pride diminishes. Maybe even a little fear sets in. Self-doubt.
+**[Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)** calls this kind of behavior **[antifragility](https://en.wikipedia.org/wiki/Antifragility)**, a concept he wrote a book about, __[Antifragile: Things That Gain From Disorder](https://en.wikipedia.org/wiki/Antifragile)__.
 
-That's when you need to recalibrate. It's an easy mistake to make to think that your ability to do or not to do something sums up what you're capable of. Inner adversity isn't a qualifier of your potential.
+> *"Some things **benefit** from shocks; they **thrive and grow** when exposed to **volatility, randomness, disorder, and stressors** and love adventure, risk, and uncertainty. Yet, in spite of the ubiquity of the phenomenon, **there is no word for the exact opposite of fragile**. Let us call it antifragile. **Antifragility is beyond resilience or robustness**. The resilient resists shocks and stays the same; the **antifragile gets better**."*
 
-The most talented among us are powerful assets and competitors. But, perhaps, if they've never had to endure struggle and contention, they are fragile.
+Whenever I **encounter frustration** during my web development endeavors, I keep the concept of **antifragility** in mind. At the beginning of my endeavors, I was eager to rely on my **proud sense** of programming ability to **get me through** my challenges.
 
-Adversity is the opportunity to grow. The most difficult challenges--the problems that stop us dead in our tracks--aren't there to say, "This is where your limit is and you will go no further."
+When that **fails** though, and your **confidence comes into question**, you need to have **something more** to **overcome the adversity**.
 
-Embrace humility, even when you've developed respectable talent, and in that humility allow yourself to admit your difficulty. "I don't know how to do this yet, but with time, persistence, and effort, I will solve this puzzle and it will become an asset to me in the future."
+> *I don't know how to do this **yet**. But **I will**. And then I'll have overcome it, like **all other things** that **once** stopped me in my tracks.*
+
+It's an **easy mistake** to think that your ability **to do** or **not** to do something in a moment **sums up what you're capable of**.
+
+It can feel like the **obstacle is a qualifier of your potential**, and it's shown you the end of the line.
+
+But the most **difficult challenges**--the problems that stop us dead in our tracks--**aren't there** to set our **limits**.
+
+Adversity is the opportunity to grow.
+
+You might say, **[the obstacle is the way](https://en.wikipedia.org/wiki/The_Obstacle_Is_the_Way)**.
+
+
+**Thanks for reading!**
