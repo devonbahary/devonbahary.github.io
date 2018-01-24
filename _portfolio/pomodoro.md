@@ -9,7 +9,7 @@ short-description: Pomodoro is a time management tool used to improve your work 
 {:.center}
 !["Pomodoro - A time management tool"]({{ site.baseurl }}/img/pomodoro/pomodoro-demo.png)
 
-## The Technique (Explanation)
+## The Technique
 ---
 Last year a friend and I got to talking about the **best methods we'd found for tackling the day's challenges and getting things done**.
 
@@ -29,7 +29,7 @@ It keeps me **accountable** because I only permit myself to wander away from my 
 
 The **Pomodoro Technique** became a valuable study asset during my web development education at **[Bloc](https://www.bloc.io)**.
 
-## When Given The Option, Build Something Useful (Problem)
+## When Given The Option, Build Something Useful
 ---
 Imagine my enthusiasm when I saw a Pomodoro app among the list of project electives at the end of the curriculum.
 
@@ -45,7 +45,7 @@ It called for a few things:
 
 Easy enough! Let's get to it!
 
-## Finished, But Not Complete (Solution)
+## Finished, But Not Complete
 ---
 ![Pomodoro Prototype]({{ site.baseurl }}/img/pomodoro/pomodoro-proto.png)
 
@@ -82,7 +82,7 @@ I met the requirements of the project in good time, though not without underesti
   * There was **only one set of tasks being recorded in the database**: enough for only one person using the tool, but **not to be of use to a broader user base**.
 
 
-## One More Time With Enthusiasm (Results)
+## One More Time With Enthusiasm
 ---
 
 Since submitting the project, I've added **several more features** to the app:
@@ -147,7 +147,7 @@ The app now extends a hand **as soon as the user loads the page**.
 And it continues to do so throughout each first encounter in the Pomodoro process, **building the bridge between the user's understanding and its utility**.
 
 
-## A Place For Pomodoro (Conclusion)
+## A Place For Pomodoro
 
 [I wrote about a few takeaways that I got from building my Scholarly app]({{ site.baseurl }}/portfolio/scholarly). They continue to sit with me **through my design process**, and there were a few that echoed through my designing of **Pomodoro**:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improving Through Adversity
+title: Improvement Through Adversity
 ---
 
 > Not to take anything away from Stephen Curry, but I don't think he'd describe Basketball as **difficult**.

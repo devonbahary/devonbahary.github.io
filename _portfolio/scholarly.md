@@ -9,7 +9,7 @@ short-description: Scholarly is a vocabulary learning tool featuring quizzes and
 {:.center}
 !["A Scholarly quiz in action"]({{ site.baseurl }}/img/scholarlyquiz.png)
 
-## Words, Words, Words (Explanation)
+## Words, Words, Words
 ---
 When I picked up my **summer readings** in 2017, I found myself in that all-too-familiar place of skimming over paragraphs and **not understanding the words** on the page.
 
@@ -19,7 +19,7 @@ I had the intent to **actually understand** what it was I was spending my time r
 
 So I took out my **notebook** and started **writing down the words I didn't know** and looking up their definitions.
 
-## A Practicality Issue (Problem)
+## A Practicality Issue
 ---
 > "So this guy carried a notebook around with him and studied vocabulary words in his spare time?" *-- healthily skeptical person*
 
@@ -31,7 +31,7 @@ Oh, and also still not knowing what was being said.
 
 I needed a **better way** to **integrate these words** into my reading vocabulary.
 
-## An App For That (Solution)
+## An App For That
 ---
 > *"Surely there's an app somewhere for that."*
 
@@ -44,7 +44,7 @@ Sure, there was probably **already an app out there** that did **99%** of what I
 
 Either way, I stood to learn something.
 
-## First Attempts (Results)
+## First Attempts
 ---
 ![]({{ site.baseurl }}/img/scholarlyproto.png)
 
@@ -94,7 +94,7 @@ Aren't these newfangled tech gadgets supposed to make life easier?
 Ugh.
 
 
-## Lessons Learned (Conclusion)
+## Lessons Learned 
 
 ![Scholarly today]({{ site.baseurl }}/img/scholarly.png)
 
